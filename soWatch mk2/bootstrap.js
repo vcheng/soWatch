@@ -141,7 +141,7 @@ var SiteLists = {
     url: /http:\/\/[^\/]+(iqiyi\.com)\//i,
     name: 'rule.iqiyi.defined',
     type: 'integer',
-    value: 1,
+    value: 2,
     hasPlayer: true,
     hasFilter: true,
     hasReferer: true,
